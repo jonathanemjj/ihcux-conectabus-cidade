@@ -1,4 +1,4 @@
-# ConectaBus Cidade
+# ConectaBus 
 
 ## 👨‍🎓 Alunos
 - Jonathan Eduardo Martins
@@ -12,7 +12,7 @@
 
 # 📱 Sobre o Projeto
 
-O **ConectaBus Cidade** é um protótipo de aplicativo desenvolvido para facilitar a vida de usuários do transporte público urbano, oferecendo informações rápidas e acessíveis sobre ônibus, linhas, horários e localização em tempo real.
+O **ConectaBus ** é um protótipo de aplicativo desenvolvido para facilitar a vida de usuários do transporte público urbano, oferecendo informações rápidas e acessíveis sobre ônibus, linhas, horários e localização em tempo real.
 
 O foco principal do projeto é garantir uma experiência simples, rápida e intuitiva, especialmente para pessoas em movimento ou com apenas uma mão disponível para utilizar o celular.
 
@@ -93,11 +93,4 @@ Essas decisões ajudam:
 
 ---
 
-# 🖼 Estrutura do Repositório
 
-```bash
-/prototipo
- ├── prototipo.png
- └── prototipo.pdf
-
-README.md
